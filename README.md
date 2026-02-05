@@ -31,9 +31,9 @@ Open the project in IntelliJ IDEA / Eclipse / STS.
 
 Run the main Spring Boot class
 
-The application will start on:
+The application is available on:
 
-http://localhost:8080
+https://item-service-es8n.onrender.com
 
 🔗 API Endpoints
 
@@ -46,7 +46,7 @@ GET /items/{id}
 
 Example
 
-GET http://localhost:8080/items/1
+GET   https://item-service-es8n.onrender.com/items/1
 
 📤 How to Send GET Request
 
@@ -54,7 +54,7 @@ Option 1: Browser
 
 Open in browser:
 
-http://localhost:8080/items/2
+https://item-service-es8n.onrender.com/items/2
 
 Option 2: Postman
 
@@ -62,7 +62,7 @@ Method: GET
 
 URL:
 
-http://localhost:8080/items/1
+https://item-service-es8n.onrender.com/items/1
 
 📥 Sample GET Response
 
@@ -87,7 +87,7 @@ Select method: POST
 
 Enter URL:
 
-http://localhost:8080/items
+https://item-service-es8n.onrender.com/items
 
 
 Go to Body → raw → JSON
